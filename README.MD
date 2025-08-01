@@ -4,13 +4,6 @@ This project is a Wireless Macropad featuring 4 programmable switches and a slid
 
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/39635419d7b33aed52e96d270107c7a142425aca_image.png)
 
-## Features
-
-- **4 Programmable Switches**: Customize each switch to perform specific actions or macros.  
-- **Sliding Potentiometer**: Use the potentiometer for analog input, such as volume control or parameter adjustments.  
-- **Wireless Connectivity**: Powered by the ESP32-C3 Supermini.  
-- **Battery Powered**: Operates on standard AA batteries.  
-- **Desk Mountable**: Designed with mounting holes to screw into the side of a desk for easy accessibility.  
 
 ## CAD & PCB
 
